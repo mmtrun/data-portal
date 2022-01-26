@@ -67,7 +67,7 @@
     "react-dom": "^16.8.6",
     "react-ga": "^2.5.3",
     "react-helmet": "^5.2.0",
-    "react-map-gl": "^5.2.3",
+    "react-map-gl": "^6.1.19",
     "react-redux": "^6.0.0",
     "react-relay": "^7.1.0",
     "react-responsive": "^6.1.1",
